@@ -2,7 +2,7 @@
 University project for smart home solution
 
 Consists of
-  Arduino code
-  Flask REST API server
-  Telegram Bot on Golang
-  Native mobile application on Flutter
+  >Arduino code<br/>
+  >Flask REST API server<br/>
+  >Telegram Bot on Golang<br/>
+  >Native mobile application on Flutter<br/>
